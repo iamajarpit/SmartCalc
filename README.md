@@ -1,7 +1,7 @@
-# 🧮 VisualMathGenius
+# 🧮 SmartCalc
 
 ## 📝 Overview
-The  VisualMathGenius is an innovative project that utilizes OpenCV and Google’s Gemini AI to solve mathematical problems of any complexity. The user can draw the math problem on the screen, and the AI model will interpret the visual input to provide a detailed solution. This project is similar to the Apple iPad calculator but leverages advanced AI technology for enhanced functionality and accuracy.
+The  SmartCalc is an innovative project that utilizes OpenCV and Google’s Gemini AI to solve mathematical problems of any complexity. The user can draw the math problem on the screen, and the AI model will interpret the visual input to provide a detailed solution. This project is similar to the Apple iPad calculator but leverages advanced AI technology for enhanced functionality and accuracy.
 
 ## ✨ Features
 - **Draw Math Problems:**  - Use your finger to draw any mathematical problem on the screen.
